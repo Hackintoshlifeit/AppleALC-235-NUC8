@@ -1006,13 +1006,13 @@
 					<key>CodecID</key>
 					<integer>283902517</integer>
 					<key>ConfigData</key>
-					<data>ASccIAEnHQEBJx6mAScfkAGXHDABlx6nAZcfAA==</data>
+					<data>Abcc8AG3HREBtx4RAbcfkAG3DAIBlxxAAZcdEAGXHoEBlx8CASccUAEnHQEBJx6mAScfkAIXHBACFx0QAhceIQIXHwICFwwC</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
 					<key>LayoutID</key>
 					<integer>8</integer>
 					<key>WakeConfigData</key>
-					<data></data>
+					<data>AbcMAgIXDAI=</data>
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
