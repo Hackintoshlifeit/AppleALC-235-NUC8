@@ -18,7 +18,7 @@
 			<key>IntSpeaker</key>
 			<dict>
 				<key>MuteGPIO</key>
-				<integer>1342242843</integer>
+				<integer>0</integer>
 			</dict>
 			<key>LineIn</key>
 			<dict>
