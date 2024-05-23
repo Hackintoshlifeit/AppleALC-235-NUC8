@@ -17,8 +17,6 @@
 			</array>
 			<key>IntSpeaker</key>
 			<dict>
-				<key>MuteGPIO</key>
-				<integer>0</integer>
 			</dict>
 			<key>LineIn</key>
 			<dict>
